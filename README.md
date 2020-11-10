@@ -1,16 +1,33 @@
 ### Hi there 👋
+My name is Falconiere R. Barbosa. I started to work as a web/mobile software developer at the beginning of 2011 as a freelancer and then as a professional from 2014 for companies in Argentina and now for Canada.
 
-<!--
-**Falconiere/falconiere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### FrontEnd Skills
 
-Here are some ideas to get you started:
+* JavaScript, HTML5/CSS3 (Advanced)
+* ReactJs (Advanced)
+* Redux (Advanced)
+* styled-components (Advanced)
+* VueJs (Advanced)
+* TypeScript (Advanced)
+* Sass (Advanced)
+* Webpack (Advanced)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Mobile Skills
+
+* ReactNative (Advanced)
+* Xamarin (Advanced)
+* Java Android (Intermediate)
+* Swift (Intermediate)
+
+### Backend Skills
+
+*  Node JS (Advanced)
+*  ExpressJs (Advanced)
+*  MongoDB (Advanced)
+*  MySql/MariaDB (Advanced)
+*  GraphQl (Advanced)
+
+### Social media
+
+* [Twitter](https://twitter.com/Falconiererb/)
+* [Instagram](https://www.instagram.com/falconiererb/)
