@@ -7,7 +7,6 @@ I am a software developer with more than 8 years of experience in web and mobile
 * ReactJs (Advanced)
 * Redux (Advanced)
 * styled-components (Advanced)
-* VueJs (Advanced)
 * TypeScript (Advanced)
 * Sass (Advanced)
 * Webpack (Advanced)
