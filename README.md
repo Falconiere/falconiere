@@ -3,28 +3,28 @@ I am a software developer with more than 8 years of experience in web and mobile
 
 ### FrontEnd Skills
 
-* JavaScript, HTML5/CSS3 (Advanced)
-* ReactJs (Advanced)
-* Redux (Advanced)
-* styled-components (Advanced)
-* TypeScript (Advanced)
-* Sass (Advanced)
-* Webpack (Advanced)
+* JavaScript, HTML5/CSS3
+* ReactJs
+* Redux
+* styled-components
+* TypeScript
+* Sass
+* Webpack
 
 ### Mobile Skills
 
-* ReactNative (Advanced)
-* Xamarin (Advanced)
-* Java Android (Intermediate)
-* Swift (Intermediate)
+* ReactNative
+* Xamarin
+* Java Android 
+* Swift 
 
 ### Backend Skills
 
-*  Node JS (Advanced)
-*  ExpressJs (Advanced)
-*  MongoDB (Advanced)
-*  MySql/MariaDB (Advanced)
-*  GraphQl (Advanced)
+*  Node JS
+*  ExpressJs
+*  MongoDB
+*  MySql/MariaDB
+*  GraphQl
 
 ### Social media
 
