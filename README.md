@@ -20,7 +20,7 @@ I am a software developer with more than 8 years of experience in web and mobile
 
 ### Backend Skills
 
-*  Node JS
+*  NodeJS
 *  ExpressJs
 *  MongoDB
 *  MySql/MariaDB
