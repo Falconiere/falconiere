@@ -7,7 +7,3 @@ I am a software developer with more than 8 years of experience in web and mobile
 
 * [Twitter](https://twitter.com/Falconiererb/)
 * [Instagram](https://www.instagram.com/falconiererb/)
-
-### Stats
-
-![Falconiere's GitHub stats](https://github-readme-stats.vercel.app/api?username=falconiere&show_icons=true&include_all_commits=true&show=prs_merged,prs_merged_percentage&theme=radical)
