@@ -6,5 +6,5 @@ A professional software developer, devoted husband, proud father of Ágatha, pas
 ### Social media
 
 * [X](https://twitter.com/Falconiererb)
-* [Linkedin](https://twitter.com/Falconiererb/](https://www.linkedin.com/in/falconiere)
+* [Linkedin](https://www.linkedin.com/in/falconiere)
 * [Instagram](https://www.instagram.com/falconiere.io/)
